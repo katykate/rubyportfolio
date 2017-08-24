@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello!
 
-Things you may want to cover:
+Please take a look at my Portfolio. Hope you will find it interesting. Portfolio shows my accomplished work for the CareerFoundry Web Developer course. Thank you for your time! I am just a begginer so please be easy on me! Happy to hear about what could be done better!
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thank you!
