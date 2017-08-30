@@ -43,19 +43,6 @@ html {
 	font-size:1em;
 }
 
-h1{
-	color: red;
-	font-size: 3em;
-}
-
-h1,
-h2{
-	text-align:center;
-}
-
-h3{
-	color:rgba(57, 156, 204, 0.8);
-}
 
 header{
 	width:100%; 
@@ -236,21 +223,36 @@ body input ~ nav > ul > li {
   transition: .5s;
   transition-delay: 0s;
 }
+
 body input ~ nav > ul > li > a {
   text-decoration: none;
   text-transform: uppercase;
   color: #020304;
-  font-weight: 700;
-  font-family: sans-serif;
   display: block;
   padding: 30px;
 }
+
 body input:checked ~ nav {
   height: 100%;
   transition-delay: 0s;
 }
+
 body input:checked ~ nav > ul > li {
   opacity: 1;
   transition-delay: .5s;
 }
 
+
+h1{
+	color: red;
+	font-size: 3em;
+}
+
+h1,
+h2{
+	text-align:center;
+}
+
+h3{
+	color:rgba(57, 156, 204, 0.8);
+}
