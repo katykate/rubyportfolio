@@ -151,7 +151,8 @@ span{
 body {
   background: #020304;
 }
-body h1 {
+
+body  {
   position: fixed;
   top: 40px;
   left: 40px;
@@ -161,7 +162,7 @@ body h1 {
   font-family: sans-serif;
   text-transform: uppercase;
 }
-body h1 > span {
+body > span {
   text-transform: none;
   opacity: .5;
   font-weight: 300;
@@ -175,6 +176,7 @@ body input + label {
   width: 15px;
   z-index: 5;
 }
+
 body input + label span {
   position: absolute;
   width: 100%;
@@ -186,13 +188,16 @@ body input + label span {
   background: #020304;
   transition: .5s;
 }
+
 body input + label span:first-child {
   top: 3px;
 }
+
 body input + label span:last-child {
   top: 16px;
 }
-body label:hover {
+bod
+y label:hover {
   cursor: pointer;
 }
 body input:checked + label span {
